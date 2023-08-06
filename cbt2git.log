@@ -1,0 +1,93 @@
+2023-08-06 05:34:04.422869 - Initialized conversion of CBT614
+2023-08-06 05:34:05.419411 - Received CBT.V505.FILE614.PDS from FILE614.XMI 
+2023-08-06 05:34:05.422026 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:34:05.423050 - Found $RECVJOB.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/$RECVJOB
+2023-08-06 05:34:05.424083 - Found @FILE614.txt (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/@FILE614
+2023-08-06 05:34:05.425169 - Found ASMLA719.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASMLA719
+2023-08-06 05:34:05.426134 - Found ASMLB720.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASMLB720
+2023-08-06 05:34:05.427103 - Found ASMLC720.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASMLC720
+2023-08-06 05:34:05.428096 - Found ASMLD721.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASMLD721
+2023-08-06 05:34:05.428999 - Found ASMLE722.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASMLE722
+2023-08-06 05:34:05.429981 - Found ASMLF722.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASMLF722
+2023-08-06 05:34:05.431008 - Found ASMLF723.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASMLF723
+2023-08-06 05:34:05.431913 - Found ASMLG723.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASMLG723
+2023-08-06 05:34:05.432786 - Found ASMLH723.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASMLH723
+2023-08-06 05:34:05.433794 - Found ASMLH724.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASMLH724
+2023-08-06 05:34:05.434840 - Found ASMLH725.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASMLH725
+2023-08-06 05:34:05.435793 - Found ASMLH801.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASMLH801
+2023-08-06 05:34:05.436799 - Found ASMLI801.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASMLI801
+2023-08-06 05:34:05.437925 - Found ASMLK630.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASMLK630
+2023-08-06 05:34:05.438910 - Found ASMLK711.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASMLK711
+2023-08-06 05:34:05.439852 - Found ASMLK712.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASMLK712
+2023-08-06 05:34:05.440710 - Found ASMLK713.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASMLK713
+2023-08-06 05:34:05.441571 - Found ASMLK714.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASMLK714
+2023-08-06 05:34:05.442431 - Found ASMLK715.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASMLK715
+2023-08-06 05:34:05.443265 - Found ASMLK716.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASMLK716
+2023-08-06 05:34:05.444080 - Found ASML8717.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASML8717
+2023-08-06 05:34:05.445060 - Found ASML9717.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASML9717
+2023-08-06 05:34:05.446033 - Found ASML9718.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASML9718
+2023-08-06 05:34:05.447050 - Found ASML9719.jcl (text/plain) in CBT.V505.FILE614.PDS, moved to PDS/ASML9719
+2023-08-06 05:34:05.479599 - Found SHOA719L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:05.488997   - Received RECFM=U data, stored XMIT file as CBT614/SHOA719L.xmi
+2023-08-06 05:34:05.520310 - Found SHOB720L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:05.528688   - Received RECFM=U data, stored XMIT file as CBT614/SHOB720L.xmi
+2023-08-06 05:34:05.560804 - Found SHOC720L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:05.568813   - Received RECFM=U data, stored XMIT file as CBT614/SHOC720L.xmi
+2023-08-06 05:34:05.601005 - Found SHOD721L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:05.609055   - Received RECFM=U data, stored XMIT file as CBT614/SHOD721L.xmi
+2023-08-06 05:34:05.640794 - Found SHOD721M.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:05.649171   - Received RECFM=U data, stored XMIT file as CBT614/SHOD721M.xmi
+2023-08-06 05:34:05.681994 - Found SHOE722L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:05.690665   - Received RECFM=U data, stored XMIT file as CBT614/SHOE722L.xmi
+2023-08-06 05:34:05.723721 - Found SHOF722L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:05.732550   - Received RECFM=U data, stored XMIT file as CBT614/SHOF722L.xmi
+2023-08-06 05:34:05.766155 - Found SHOF723L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:05.774406   - Received RECFM=U data, stored XMIT file as CBT614/SHOF723L.xmi
+2023-08-06 05:34:05.808479 - Found SHOF723M.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:05.816644   - Received RECFM=U data, stored XMIT file as CBT614/SHOF723M.xmi
+2023-08-06 05:34:05.850469 - Found SHOG723L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:05.858902   - Received RECFM=U data, stored XMIT file as CBT614/SHOG723L.xmi
+2023-08-06 05:34:05.892376 - Found SHOG723M.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:05.900692   - Received RECFM=U data, stored XMIT file as CBT614/SHOG723M.xmi
+2023-08-06 05:34:05.936043 - Found SHOH724L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:05.944373   - Received RECFM=U data, stored XMIT file as CBT614/SHOH724L.xmi
+2023-08-06 05:34:05.980201 - Found SHOH725L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:05.988284   - Received RECFM=U data, stored XMIT file as CBT614/SHOH725L.xmi
+2023-08-06 05:34:06.024099 - Found SHOH801L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:06.032470   - Received RECFM=U data, stored XMIT file as CBT614/SHOH801L.xmi
+2023-08-06 05:34:06.068557 - Found SHOI801L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:06.076642   - Received RECFM=U data, stored XMIT file as CBT614/SHOI801L.xmi
+2023-08-06 05:34:06.093050 - Found SHOW630L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:06.100885   - Received RECFM=U data, stored XMIT file as CBT614/SHOW630L.xmi
+2023-08-06 05:34:06.118943 - Found SHOW709L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:06.127676   - Received RECFM=U data, stored XMIT file as CBT614/SHOW709L.xmi
+2023-08-06 05:34:06.147017 - Found SHOW710L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:06.154443   - Received RECFM=U data, stored XMIT file as CBT614/SHOW710L.xmi
+2023-08-06 05:34:06.174971 - Found SHOZ710L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:06.182577   - Received RECFM=U data, stored XMIT file as CBT614/SHOZ710L.xmi
+2023-08-06 05:34:06.207856 - Found SHOZ711L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:06.215228   - Received RECFM=U data, stored XMIT file as CBT614/SHOZ711L.xmi
+2023-08-06 05:34:06.242269 - Found SHOZ712L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:06.249437   - Received RECFM=U data, stored XMIT file as CBT614/SHOZ712L.xmi
+2023-08-06 05:34:06.272645 - Found SHOZ713L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:06.279889   - Received RECFM=U data, stored XMIT file as CBT614/SHOZ713L.xmi
+2023-08-06 05:34:06.306494 - Found SHOZ714L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:06.314885   - Received RECFM=U data, stored XMIT file as CBT614/SHOZ714L.xmi
+2023-08-06 05:34:06.344130 - Found SHOZ715L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:06.352445   - Received RECFM=U data, stored XMIT file as CBT614/SHOZ715L.xmi
+2023-08-06 05:34:06.383107 - Found SHOZ716L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:06.391557   - Received RECFM=U data, stored XMIT file as CBT614/SHOZ716L.xmi
+2023-08-06 05:34:06.421798 - Found SHOZ717L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:06.430179   - Received RECFM=U data, stored XMIT file as CBT614/SHOZ717L.xmi
+2023-08-06 05:34:06.462004 - Found SHOZ718L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:06.470472   - Received RECFM=U data, stored XMIT file as CBT614/SHOZ718L.xmi
+2023-08-06 05:34:06.503299 - Found SHO8719L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:06.512182   - Received RECFM=U data, stored XMIT file as CBT614/SHO8719L.xmi
+2023-08-06 05:34:06.543373 - Found SHO9716L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:06.552143   - Received RECFM=U data, stored XMIT file as CBT614/SHO9716L.xmi
+2023-08-06 05:34:06.584203 - Found SHO9717L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:06.593539   - Received RECFM=U data, stored XMIT file as CBT614/SHO9717L.xmi
+2023-08-06 05:34:06.625806 - Found SHO9718L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:06.634080   - Received RECFM=U data, stored XMIT file as CBT614/SHO9718L.xmi
+2023-08-06 05:34:06.665772 - Found SHO9719L.xmi (application/xmit) in CBT.V505.FILE614.PDS
+2023-08-06 05:34:06.673905   - Received RECFM=U data, stored XMIT file as CBT614/SHO9719L.xmi
